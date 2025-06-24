@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    margin-top: 1rem;
+
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    
+}
+button{
+    margin: 0.5rem;
+    height: 2rem;
+    width: 6rem;
+    
+    border-radius: 50px;
+    background-color: yellow;
+}
+
+button :hover{
+    opacity: 1;
+}
